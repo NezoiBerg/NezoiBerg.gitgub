@@ -1,0 +1,27 @@
+<DOCTYPE html>
+<html lang="eng">
+<head>
+<link rel="stylesheet" href="../css/style.css">
+<meta charset="UTF-8>
+<meta http-equlv="X-UA-Compatible" content="IE-edge>
+<meta name="viewport" content="widht-devide-width, initial-scale-1.0">
+</head>
+<body>
+
+
+
+<img src="E:\PC fisso\Scuola Francy\Informatica\Github\Influencer\Immagini\galeazzi.png" title="Recensione ONEPLUS 6
+">
+
+<h2 style="color: red;">video preferito</h2>
+
+<iframe width="500" height="300" src"https://youtu.be/AO0F69TlzJc" title="">
+
+<h2 style=color: red; text-align: center; font-size:5;"<descrizione:<\h2>
+
+<p style="text-align: center;">galeazzi porta video con recensioni e umboxing di tecnologia.
+<\p><br>
+
+<p1>cliccare per tornare alla home<\p1>
+</body>
+</html>
